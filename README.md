@@ -5,9 +5,9 @@ This Website fully responsive personal portfolio website, responsive for all dev
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://twitter.com/OladoyinAyodeji).
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/ayodeji-oladoyin-9a5189b0/).
+
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/abisola-afeez-adegoke/).
 
 ## License
 
